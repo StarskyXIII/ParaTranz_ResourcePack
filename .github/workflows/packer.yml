@@ -23,6 +23,6 @@ jobs:
     uses: TeamKugimiya/reusable-workflows/.github/workflows/Simple-ResourcePacker.yml@main
     with:
       resourcepack_file_name: "ATM9-TTS-Patches"
-      release_title_name: "ATM9 - 翱翔天際 任務補丁資源包"
+      release_title_name: "ATM9 - 翱翔天際 中文補丁資源包"
       git_version_replacer: true
       generate_time_replacer: true
