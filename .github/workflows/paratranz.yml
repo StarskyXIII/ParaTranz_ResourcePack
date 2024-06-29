@@ -1,0 +1,50 @@
+name: 同步 ParaTranz 的翻譯
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # 每小時執行一次
+  workflow_dispatch:      # 手動觸發
+
+jobs:
+  download_and_convert:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: 從 ParaTranz 下載翻譯壓縮檔
+      env:
+          PROJECT_ID: ${{ secrets.PARATRANZ_PROJECT_ID }}
+          PARATRANZ_TOKEN: ${{ secrets.PARATRANZ_TOKEN }}
+      run: |
+        curl -L -X GET "https://paratranz.cn/api/projects/${PROJECT_ID}/artifacts/download" \
+          -H "Authorization: ${PARATRANZ_TOKEN}" \
+          -o artifacts.zip
+      
+    - name: 從壓縮檔中提取 en_us.json
+      run: |
+        unzip artifacts.zip utf8/en_us.json -d extracted_files
+
+    - name: 將 en_us.json 移動到 raw 資料夾
+      run: |
+        mkdir -p raw
+        mv extracted_files/utf8/en_us.json raw/en_us.json
+
+    - name: 將 JSON 轉換成 Minecraft 格式
+      run: |
+        python .github/workflows/convert_json.py raw/en_us.json assets/kubejs/lang/zh_tw.json
+
+    - name: 刪除 artifacts.zip
+      run: |
+        rm -f artifacts.zip
+
+    - name: 設定 Git 並強制提交變更
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        git config user.email "github-actions@github.com"
+        git config user.name "GitHub Actions"
+        git add raw/en_us.json assets/kubejs/lang/zh_tw.json
+        git commit -m "自動同步 ParaTranz 的最新翻譯" --allow-empty
+        git push origin main

@@ -1,0 +1,28 @@
+name: 自動發布資源包更新
+
+on:
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+    paths:
+      - assets/**
+      - pack.mcmeta
+      - pack.png
+  workflow_run:
+    workflows: ["同步 ParaTranz 的翻譯"]
+    types:
+      - completed
+
+permissions:
+  contents: write
+
+jobs:
+  Simple-Packer:
+    name: 補丁資源包發布
+    uses: TeamKugimiya/reusable-workflows/.github/workflows/Simple-ResourcePacker.yml@main
+    with:
+      resourcepack_file_name: "ATM9-TTS-Patches"
+      release_title_name: "ATM9 - 翱翔天際 任務補丁資源包"
+      git_version_replacer: true
+      generate_time_replacer: true
