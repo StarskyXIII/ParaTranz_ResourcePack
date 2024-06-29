@@ -45,6 +45,6 @@ jobs:
       run: |
         git config user.email "github-actions@github.com"
         git config user.name "GitHub Actions"
-        git add raw/en_us.json assets/kubejs/lang/zh_tw.json
+        git add assets/kubejs/lang/zh_tw.json
         git commit -m "自動同步 ParaTranz 的最新翻譯" --allow-empty
         git push origin main
