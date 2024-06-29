@@ -17,7 +17,7 @@
     },
     {
       "type": "patchouli:text",
-      "text": "每一階級的$(item)血祭壇$()都能夠製作一種階級的$(item)血寶珠$()。 這些配方將在後面的頁面中紀載。 $(li)$(item)微弱血寶珠$() - 最大容量: $(blood)5k LP$()。	  $(li)$(item)學徒血寶珠$() - 最大容量: $(blood)25k LP$()。 $(li)$(item)法師血寶珠$() - 最大容量: $(blood)150k LP$()。 $(li)$(item)大師血寶珠$() - 最大容量: $(blood)1M LP$()。 $(li)$(item)大法師血寶珠$() - 最大容量: $(blood)10M LP$()。"
+      "text": "每一階級的$(item)血祭壇$()都能夠製作一種階級的$(item)血寶珠$()。 這些配方將在後面的頁面中紀載。 $(li)$(item)微弱血寶珠$() - 最大容量: $(blood)5k LP$()。 $(li)$(item)學徒血寶珠$() - 最大容量: $(blood)25k LP$()。 $(li)$(item)法師血寶珠$() - 最大容量: $(blood)150k LP$()。 $(li)$(item)大師血寶珠$() - 最大容量: $(blood)1M LP$()。 $(li)$(item)大法師血寶珠$() - 最大容量: $(blood)10M LP$()。"
     },
     {
       "type": "bloodmagic:2x_crafting_altar",
