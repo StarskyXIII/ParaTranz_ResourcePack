@@ -5274,6 +5274,12 @@
     "stage": 1
   },
   {
+    "key": "atm9.quest.ae2.desc.256",
+    "original": "The fifth and final MEGA tier of storage component, providing &e268435456&f (262144k) bytes of storage.",
+    "translation": "第五層也是最後一層 MEGA 儲存元件，提供 &e268435456&f (262144k) 位元組儲存。",
+    "stage": 1
+  },
+  {
     "key": "atm9.quest.rs.refined",
     "original": "&dRefined Storage",
     "translation": "&d精緻儲存",
@@ -5810,13 +5816,19 @@
   {
     "key": "atm9.quest.enchant.charms",
     "original": "Making Apotheosis Charms Unbreakable",
-    "translation": "使神化護符更耐久",
+    "translation": "使神化護符不可破壞",
     "stage": 1
   },
   {
     "key": "atm9.quest.enchant.desc.enchant",
     "original": "Enchanting gets a few changes with Apotheosis. To summarize it, 15 bookshelves won't be enough now. There's new bookshelves and actions you can do with Enchantment Tables now and hopefully these quests will help you understand.",
     "translation": "《神化》模組對附魔進行了一些改變。總的來說，現在15個書架已經不夠用了。現在有新的書架且你可以在附魔台上進行新的操作，希望這些任務能幫助你理解。",
+    "stage": 1
+  },
+  {
+    "key": "atm9.quest.enchant.desc.charms",
+    "original": "Charms are new parts with Apotheosis that allows you to get Potion Effects for much longer. You can Infuse them to make them Unbreakable. It needs &a50 Eterna&r, between &c8.5%%&r and &c13.5%% Quanta&r, and between &532.5%%&r to &537.5%% Arcana&r. One way you can do this is with &d5 Draconic Endshelves&r, &46 Glowing Hellshelves&r, &41 Blazing Hellshelves&r, &b1 Heart-Forged Seashelf&r, and 2 Melonshelves. {BTW I used any curios charm tag so some items that can be used in the quest can not be made Unbreakable, only Apotheosis Charms can.)",
+    "translation": "護符是《神化》模組的新部分，它可以讓你獲得持續更久的藥水效果。你可以對它們進行灌注，使其無法損壞。這需要&a50點位階&r、&c8.5%%&r 到 &c13.5%%的量子化&r，以及&532.5%%&r到&537.5%%的阿卡那&r。一種方法是使用&d5個巨龍終界書架&r、&46個耀光地獄書架&r、&41個熾熱地獄書架&r、&b1個鍛心海洋書架&r和2個西瓜書架。（順便說一下，我使用了any curios charm標籤，所以一些可以用於任務的物品不能被製成無法損壞，只有神化模組的護符可以。）",
     "stage": 1
   },
   {
