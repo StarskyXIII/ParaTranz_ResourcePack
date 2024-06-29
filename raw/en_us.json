@@ -5292,6 +5292,12 @@
     "stage": 1
   },
   {
+    "key": "atm9.quest.spawner.desc.cactus",
+    "original": "You ever get bored of the 'normal' heights for cacti, bamboo, and sugarcane? You ever wish to see skyscrapers of Bamboo? Apotheosis can bring you your croppy Skyscrapers! Now height limits for Cacti, Bamboo, and Sugarcane have been increased! To how much? IDK, how tall is world height limit?",
+    "translation": "你是否厭倦了仙人掌、竹子和甘蔗的‘原版’高度？你是否希望看到竹子的摩天大樓？《神化》模組可以實現你的這個夢想！現在仙人掌、竹子和甘蔗的高度限制都被提高了！提高到多少？我也不知道，世界高度限制有多高呢？",
+    "stage": 1
+  },
+  {
     "key": "atm9.quest.ma.dec.Welcome",
     "original": "Welcome to mystical agriculture, the place where you can farm most fundamental resources in the game!",
     "translation": "歡迎來到神秘農業，在這裡你可以種植遊戲中最基本的資源！",
