@@ -5262,6 +5262,12 @@
     "stage": 1
   },
   {
+    "key": "atm9.quest.ae2.desc.1m",
+    "original": "There comes a point in any playthrough of a large modpack where even the highest standard tier of storage cell doesn't cut it for the amount of items and resources that you may be accumulating. \\n \\n This is where the &dMEGA Cells&f add-on comes in, extending the available tiers of storage into the megabyte territory. The first of these new tiers is given by the &b1M MEGA Storage Component&f, providing 1024 &okilo&rbytes, or &e1048576&f bytes, of storage.",
+    "translation": "在玩大型模組包時，總會有一個，即使是最高標準的儲存單元層也無法減少您可能累積的物品和資源的數量。\\n\\n這就是 &dMEGA 儲存元件&f的用武之地，將可用的儲存層級擴展到兆位元組領域。其中第一個新的層級為&b1M MEGA儲存元件儲存元件&f，提供1024KB或&e1048576&f位元的儲存空間",
+    "stage": 1
+  },
+  {
     "key": "atm9.quest.ae2.desc.16m",
     "original": "The third MEGA tier of storage component, providing &e16777216&f (16384k) bytes of storage.",
     "translation": "第三層 MEGA 儲存元件，提供 &e16777216&f (16384k) 位元組的儲存。",
@@ -5271,6 +5277,12 @@
     "key": "atm9.quest.rs.refined",
     "original": "&dRefined Storage",
     "translation": "&d精緻儲存",
+    "stage": 1
+  },
+  {
+    "key": "atm9.quest.spawner.apotheosis",
+    "original": "Apotheosis",
+    "translation": "神化",
     "stage": 1
   },
   {
@@ -5295,6 +5307,12 @@
     "key": "atm9.quest.spawner.desc.cactus",
     "original": "You ever get bored of the 'normal' heights for cacti, bamboo, and sugarcane? You ever wish to see skyscrapers of Bamboo? Apotheosis can bring you your croppy Skyscrapers! Now height limits for Cacti, Bamboo, and Sugarcane have been increased! To how much? IDK, how tall is world height limit?",
     "translation": "你是否厭倦了仙人掌、竹子和甘蔗的‘原版’高度？你是否希望看到竹子的摩天大樓？《神化》模組可以實現你的這個夢想！現在仙人掌、竹子和甘蔗的高度限制都被提高了！提高到多少？我也不知道，世界高度限制有多高呢？",
+    "stage": 1
+  },
+  {
+    "key": "atm9.quest.spawner.desc.spawner",
+    "original": "Another game change Apotheosis brings is to Spawners. Remember being able to mine Spawners with Silk Touch? Well it's back thanks to Apotheosis! There's also many new Modifications you can add to Spawners by right clicking any of these items.",
+    "translation": "《神化》模組帶來的另一個遊戲變更是關於刷怪籠的。還記得以前可以用絲綢之觸挖掘刷怪籠嗎？現在它又回來了，這都要感謝《神化》模組！此外，你還可以用這些物品右鍵點擊刷怪籠來進行許多新的修改。",
     "stage": 1
   },
   {
@@ -5781,6 +5799,24 @@
     "key": "atm9.quest.mekanism.tier2OreFactory",
     "original": "Tier 2 Ore Factory",
     "translation": "2級礦物工廠",
+    "stage": 1
+  },
+  {
+    "key": "atm9.quest.enchant.enchant",
+    "original": "Enchanting with Apotheosis",
+    "translation": "用神化進行附魔",
+    "stage": 1
+  },
+  {
+    "key": "atm9.quest.enchant.charms",
+    "original": "Making Apotheosis Charms Unbreakable",
+    "translation": "使神化護符更耐久",
+    "stage": 1
+  },
+  {
+    "key": "atm9.quest.enchant.desc.enchant",
+    "original": "Enchanting gets a few changes with Apotheosis. To summarize it, 15 bookshelves won't be enough now. There's new bookshelves and actions you can do with Enchantment Tables now and hopefully these quests will help you understand.",
+    "translation": "《神化》模組對附魔進行了一些改變。總的來說，現在15個書架已經不夠用了。現在有新的書架且你可以在附魔台上進行新的操作，希望這些任務能幫助你理解。",
     "stage": 1
   },
   {
