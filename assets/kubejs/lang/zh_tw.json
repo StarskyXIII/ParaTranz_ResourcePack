@@ -894,6 +894,8 @@
   "atm9.quest.ae2.subt.1k": "第一個千位元組。",
   "atm9.quest.ae2.subt.1m": "第一個百萬位元組。",
   "atm9.quest.ae2.subt.crafting_coprocessor": "下載更多 CPU（中央處理單元）核心",
+  "atm9.quest.ae2.subt.crafting_monitor": "下載更多VRAM（視訊隨機存取記憶體）",
+  "atm9.quest.ae2.subt.cards": "其餘的兩張 IO 卡",
   "atm9.quest.rs.refined": "&d精緻儲存",
   "atm9.quest.spawner.apotheosis": "神化",
   "atm9.quest.spawner.desc.apotheosis": "神化是一個相當大的模組，所以我將其分為三個任務章節。附魔和詞綴將會分開。這個章節是針對原版遊戲的變更。",
