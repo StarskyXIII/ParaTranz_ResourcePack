@@ -1,16 +1,16 @@
 import json
-import os
+import zipfile
 
-input_file = 'raw/en_us.json'
 output_file = 'assets/kubejs/lang/zh_tw.json'
 
-# 讀取 input_file
-with open(input_file, 'r', encoding='utf-8') as f:
-    data = json.load(f)
+archive = zipfile.ZipFile("artifacts.zip", "r")
+json_raw_data = archive.open("utf8/en_us.json")
+
+json_data = json.load(json_raw_data)
 
 # 轉換資料格式
 converted_data = {}
-for entry in data:
+for entry in json_data:
     key = entry.get('key', '')
     translation = entry.get('translation', '')
     original = entry.get('original', '')
