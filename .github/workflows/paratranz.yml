@@ -13,27 +13,13 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
 
-    - name: ParaTranz - 手動產生壓縮檔
+    - name: ParaTranz - 下載翻譯
+      run: |
+        python .github/scripts/paratranz_downloader.py
       env:
           PROJECT_ID: ${{ secrets.PARATRANZ_PROJECT_ID }}
+          FILE_ID: ${{ secrets.PARATRANZ_FILE_ID }}
           PARATRANZ_TOKEN: ${{ secrets.PARATRANZ_TOKEN }}
-      run: |
-        curl -L -X POST "https://paratranz.cn/api/projects/${PROJECT_ID}/artifacts/" \
-          -H "Authorization: ${PARATRANZ_TOKEN}"
-        sleep 3s
-
-    - name: ParaTranz - 下載翻譯壓縮檔
-      env:
-          PROJECT_ID: ${{ secrets.PARATRANZ_PROJECT_ID }}
-          PARATRANZ_TOKEN: ${{ secrets.PARATRANZ_TOKEN }}
-      run: |
-        curl -L -X GET "https://paratranz.cn/api/projects/${PROJECT_ID}/artifacts/download" \
-          -H "Authorization: ${PARATRANZ_TOKEN}" \
-          -o artifacts.zip
-
-    - name: 將 JSON 轉換成 Minecraft 格式
-      run: |
-        python .github/workflows/convert_json.py
 
     - name: 同步提交
       uses: EndBug/add-and-commit@v9
