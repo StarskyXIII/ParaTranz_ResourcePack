@@ -1077,6 +1077,8 @@
   "atm9.quest.botania.desc.endoflameFunction": " &c火紅蓮&r會吃掉掉落在附近的任何可燃物，每次一個。然後它會燃燒它們以產生魔力。",
   "atm9.quest.botania.burningItems": "&c燃燒物品&r來產生魔力",
   "atm9.quest.botania.waterMana": "使用&9水&r來產生魔力",
+  "atm9.quest.botania.desc.blackLotus": "只能在寶藏箱中找到，&0黑蓮花&r可以被丟入非空的魔力池轉換成魔力。",
+  "atm9.quest.botania.blackLotus": "黑蓮花",
   "atm9.quest.botania.desc.wandOfTheForestIntro.1": "&2森林法杖&r是植物魔法必不可少的物品。",
   "atm9.quest.botania.desc.wandOfTheForestIntro.2": "這隻法杖有兩種模式:&a綁定&r和&9工作&r模式。",
   "atm9.quest.botania.desc.wandOfTheForestIntro.3": "&a綁定模式&r用來綁定花朵和方塊。先蹲下右鍵你要綁定的方塊或花朵，然後再蹲下右鍵要綁定的另一個方塊或花朵，就可以將其綁定在一起。",
