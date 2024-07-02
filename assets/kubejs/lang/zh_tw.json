@@ -607,6 +607,7 @@
   "atm9.quest.force.web": "絲綢",
   "atm9.quest.force.wither": "瓶裝凋零",
   "atm9.quest.hostile.data": "升級你的模型框架",
+  "atm9.quest.hostile.desc.welcome": "&6敵對生物神經網路（Hostile Neural Networks，簡稱HNN）&r是一個基於模擬來擊殺生物並獲取戰利品的模組！\\n \\n要做到這件事，你必須要從生物身上採集到足夠的「資料」，並利用這些資料來進行模擬並製造牠們的掉落物！",
   "atm9.quest.hostile.end": "通用化終界預測產物",
   "atm9.quest.hostile.learn": "&a生物學習&r",
   "atm9.quest.hostile.loot": "製造&d戰利品&r",
