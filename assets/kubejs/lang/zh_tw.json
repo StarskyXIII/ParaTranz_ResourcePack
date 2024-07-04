@@ -722,6 +722,8 @@
   "atm9.quest.ma.dec.Welcome": "歡迎來到神秘農業，在這裡你可以種植遊戲中最基本的資源！",
   "atm9.quest.ma.lilyfarm": "蓮葉農場",
   "atm9.quest.ma.phytofarm": "有機灌注器農場",
+  "atm9.quest.mekanism.desc.additionalMachines.1": "我們會需要三台機器來升級礦物處理產線。",
+  "atm9.quest.mekanism.desc.additionalMachines.2": "第一台機器是化學溶解室。",
   "atm9.quest.mekanism.desc.basicAlloy": "在冶金灌注機內將紅石注入鐵錠能夠得到富集合金。",
   "atm9.quest.mekanism.desc.basicControlCircuit": "在冶金灌注機內將紅石注入鋨錠能夠得到基礎控制電路。",
   "atm9.quest.mekanism.desc.bioFuelEnergy": "這個發電機可以將生物燃料燃燒成能量。它大約可以產生140FE/t的能量。",
