@@ -28,4 +28,5 @@ jobs:
       generate_time_replacer: true
       force_include_files: |
         expatternprovider/ae2guide/epp_intro/*.md
+        *.png
         
