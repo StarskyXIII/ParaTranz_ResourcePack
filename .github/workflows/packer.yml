@@ -26,4 +26,4 @@ jobs:
       release_title_name: "ATM9 - 翱翔天際 中文補丁資源包"
       git_version_replacer: true
       generate_time_replacer: true
-      force_include_files: "expatternprovider/ae2guide/epp_intro/*.md,*.png"
+      force_include_files: "assets/expatternprovider/ae2guide/epp_intro/*.md,assets/appliede/ae2guide/diagrams/*.png"
