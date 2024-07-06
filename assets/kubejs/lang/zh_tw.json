@@ -1020,6 +1020,8 @@
   "atm9.quest.mekanismReactors.fusionReactor": "核融合反應爐",
   "atm9.quest.mekanismReactors.industrialTurbine": "工業渦輪",
   "atm9.quest.mekanismReactors.interactingWithFissionReactor": "核分裂反應爐的輸入/輸出",
+  "atm9.quest.mekanismReactors.reactorFailSafe": "控制反應爐事故",
+  "atm9.quest.mekanismReactors.subt.blowUpReactor": "我們都有讓反應爐爆炸過",
   "atm9.quest.mekanismReactors.subt.casingsAndGlass": "外殼和玻璃",
   "atm9.quest.mekanismReactors.subt.radiationProtection": "橘色的柳橙能抗輻射",
   "atm9.quest.mekanismReactors.suitingUp": "穿上防護服",
