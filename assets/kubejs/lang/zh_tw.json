@@ -1036,6 +1036,7 @@
   "atm9.quest.mekanismReactors.desc.reactorSafety.2": "我們當然有辦法能夠避免這場災難發生，可以利用&d核分裂反應爐邏輯適配器&r來製作一個紅石&a斷路器&r。雖然還是不能完全保證不會出事，但是你絕對該做一個。",
   "atm9.quest.mekanismReactors.desc.reactorSafety.3": "適配器能夠讓我們用&c紅石&r來操控反應爐，像是用控制桿開關反應爐。但我們現在要做的是損壞保護裝置。",
   "atm9.quest.mekanismReactors.desc.reactorSafety.4": "在反應爐發生事故，像是&c嚴重損壞&r或是&8缺乏燃料&r時，適配器能夠輸出紅石信號。這對我們設計斷路器非常有幫助，使事故真的發生時能夠馬上關閉反應爐。",
+  "atm9.quest.mekanismReactors.desc.reactorSetup.1": "在上一章，我們已經蓋了一座高級的礦物工廠，了解了一部分機器的用途。",
   "atm9.quest.mekanismReactors.desc.uraniumUses.1": "核分裂反應爐總會需要鈾對吧？",
   "atm9.quest.mekanismReactors.desc.uraniumUses.2": "因此，我們會需要一些&a鈾錠&r，並放入&9富集倉&r內，製造&e黃餅鈾&r。",
   "atm9.quest.mekanismReactors.desc.yellowCakeProcess": "做出&e黃餅鈾&r之後，將其送入&a化學氧化機&r即可製造&2氧化鈾&r氣體。",
