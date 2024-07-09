@@ -1050,6 +1050,8 @@
   "atm9.quest.mekanismReactors.desc.fusionReactor.3": "要搭建核融合反應爐，這裡有個簡單的蓋法。首先將每面蓋成這樣。",
   "atm9.quest.mekanismReactors.desc.fusionReactor.4": "在上面，將中間的方塊替換為核融合反應爐控制器。",
   "atm9.quest.mekanismReactors.desc.fusionReactor.5": "你可以將結構玻璃替換成連接埠，需要兩個連接埠用來輸入&c氘&r和&e氚&r和一個連接埠用來輸出能量。",
+  "atm9.quest.mekanismReactors.desc.fusionReactorIntro.1": "&d核融合反應爐&r最多能有 200M RF/t 的發電量，但是我們需要先了解反應爐的設定。",
+  "atm9.quest.mekanismReactors.desc.fusionReactorIntro.2": "最簡單的發電方式是分別注入氘和氚，然後在&c燃料&r的標籤頁中控制&a輸入速率&r。",
   "atm9.quest.mekanismReactors.desc.fusionReactorPrep.1": "☑ 充滿氘-氚燃料的黑體輻射腔。",
   "atm9.quest.mekanismReactors.desc.fusionReactorPrep.2": "☑ 氘和氚準備輸進反應爐。",
   "atm9.quest.mekanismReactors.desc.fusionReactorPrep.3": "☑ 含有 400M RF，準備打入雷射聚焦矩陣的雷射增幅器",
