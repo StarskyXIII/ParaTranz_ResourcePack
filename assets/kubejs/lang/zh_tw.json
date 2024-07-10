@@ -463,6 +463,7 @@
   "atm9.quest.bees.welcome": "歡迎來到&e生產蜜蜂&r",
   "atm9.quest.bloodMagic.bloodMagic": "血魔法",
   "atm9.quest.bloodMagic.collectingBlood": "收集&c血液",
+  "atm9.quest.bloodMagic.desc.altarCapacityMultiplicativeIncrease.1": "該符文會使祭壇的「總容量」上升7.5%。此效果會在增容符文之後計算。",
   "atm9.quest.bloodMagic.desc.altarMobSacrifice.1": "你現在可以去戳其他生物來獲得牠們的血了！",
   "atm9.quest.bloodMagic.desc.altarMobSacrifice.2": "在距離祭壇兩格方塊內的地方使用這把刀攻擊任何生物會秒殺牠們並使你的祭壇獲得 LP。",
   "atm9.quest.bloodMagic.desc.altarMobSacrifice.3": "如果你的祭壇裝有獻祭符文的話，你會獲得更多的 LP！",
