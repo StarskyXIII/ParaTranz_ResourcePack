@@ -1117,6 +1117,7 @@
   "atm9.quest.mekanismReactors.desc.superchargedCoils.1": "像下圖一樣將&9增壓線圈&r放在超臨界移相器的內部任兩面的中心（其實只需要一個就能夠運作了），並接上超臨界移相器端口。當輸入電力時，超臨界移相器就能將釙轉換成反物質。",
   "atm9.quest.mekanismReactors.desc.superchargedCoils.2": "產出 1 mb 的反物質，就需要消耗 400M RF。建議建造&c核融合反應爐&r來應付如此龐大的電力需求。",
   "atm9.quest.mekanismReactors.desc.tritiumProduction": "你已經能製造&a鋰&r了，將其導入太陽能中子活化器就能夠產出&e氚&r了。",
+  "atm9.quest.mekanismReactors.desc.turbineValves.1": "工業渦輪透過&9渦輪閥門&r輸入&b蒸氣&r和輸出電力。",
   "atm9.quest.mekanismReactors.desc.uraniumHexafluoride": "用另一台&9化學灌注器&r將&b氫氟酸&r和&e氧化鈾&r混合即可產出&2六氟化鈾&r。",
   "atm9.quest.mekanismReactors.desc.uraniumUses.1": "核分裂反應爐總會需要鈾對吧？",
   "atm9.quest.mekanismReactors.desc.uraniumUses.2": "因此，我們會需要一些&a鈾錠&r，並放入&9富集倉&r內，製造&e黃餅鈾&r。",
