@@ -1029,6 +1029,8 @@
   "atm9.quest.mekanismReactors.desc.deuteriumProduction.1": "要啟動核融合反應爐，我們需要兩種燃料，其中一種便是&c氘&r。",
   "atm9.quest.mekanismReactors.desc.deuteriumProduction.2": "要得到氘，我們要在電動泵中加入過濾升級，再將電動泵放到水源上，就能夠抽出&5重水&r。",
   "atm9.quest.mekanismReactors.desc.deuteriumProduction.3": "在電解分離器中電解重水就能夠取得&c氘&r。",
+  "atm9.quest.mekanismReactors.desc.electromagneticCoil": "&9電磁線圈&需要和&a旋轉裝置&r接著才能將動能轉換為電力。",
+  "atm9.quest.mekanismReactors.desc.electromagneticCoil.2": "線圈之間也需要接在一起，最多能用 7 個線圈承載 28 個葉片一起旋轉。",
   "atm9.quest.mekanismReactors.desc.fissileFuel.1": "核分裂反應爐需要&3易裂變燃料&r才能運作，如果你在 JEI 看過配方的話，可能會被配方的複雜程度嚇一跳。但是沒關係，我們可以一口氣就搞定這一切。",
   "atm9.quest.mekanismReactors.desc.fissileFuel.2": "首先我們知道燃料是由&e六氟化鈾&r製成，因此我們將注意力放到六氟化鈾的兩個原料：&b氫氟酸&r和&e氧化鈾&r。",
   "atm9.quest.mekanismReactors.desc.fissionReactorIntro.1": "首先我們要先來蓋一台&a核分裂反應爐&r，它透過消耗&3易裂變燃料&r產生大量熱量。它雖然不直接生產電力，但是加熱過後的冷卻劑能透過&a工業渦輪&r發電。",
