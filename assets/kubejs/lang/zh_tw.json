@@ -733,6 +733,8 @@
   "atm9.quest.create.desc.portableInterface.2": "當兩個介面面對面時，它們會連接在一起，並在它們之間傳輸物品。",
   "atm9.quest.create.desc.press": "&n&5機械鍛壓機&r可以用以生產金屬板或金屬方塊。",
   "atm9.quest.create.desc.radialChassis": "&n&5旋轉底盤&r與&n&5強力膠&r的功能類似。它可以在不需要膠水的情況下將側邊一直線上的所有方塊連接起來。",
+  "atm9.quest.create.desc.roseCrystals.1": "你可以合成一些玫瑰石英和砂紙來製作出這個物品。",
+  "atm9.quest.create.desc.roseCrystals.2": "你可以把玫瑰石英放在副手，或是將它們丟在地板上，然後手持砂紙對著它們點擊右鍵。",
   "atm9.quest.create.desc.saw": "&n&5機械圓鋸機&r會砍下它面前的樹。它也能當作鋸木機來使用。它會將收集到的物品自動存入連接到的儲存空間之中。",
   "atm9.quest.create.desc.shafts": "&n&5傳動軸&r可以在不改變齒輪轉速的情況下傳輸動力。",
   "atm9.quest.create.desc.speedometer": "轉速計能夠告訴你它所連接到的元件的轉速。",
