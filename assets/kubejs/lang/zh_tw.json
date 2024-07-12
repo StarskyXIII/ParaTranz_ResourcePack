@@ -655,6 +655,7 @@
   "atm9.quest.botania.desc.terraShatterer.1": "&9泰拉粉碎者&r能像魔力石板一樣從魔力池吸收魔力，然而此過程是不可逆的。",
   "atm9.quest.botania.desc.terraShatterer.2": "吸收的魔力越多，泰拉粉碎者的等級越高。由 D 級開始，最高可以達到 SS 級。",
   "atm9.quest.botania.desc.terraShatterer.3": "雖然等級並不影響採掘速度，但是會影響啟動狀態下的挖掘範圍。蹲下 + 按下右鍵能啟動泰拉粉碎者，挖掘範圍從 D 級不增加範圍開始，隨著等級提升擴大挖掘範圍。",
+  "atm9.quest.botania.desc.terraShatterer.4": "註：當泰拉粉碎者啟動時，就會消耗其儲存的魔力。",
   "atm9.quest.botania.desc.terraTruncator": "&2泰拉斷裂者&r能消耗魔力直接砍倒整棵樹。",
   "atm9.quest.botania.desc.terrasteelArmor": "&a泰拉鋼盔甲&r也能用魔力自我修復，並有著和鑽石盔甲相似的強度。",
   "atm9.quest.botania.desc.upgradeManaSpreader.1": "要升級&2魔力發射器&r，你可以在發射器前方貼上&9魔力透鏡&r。但是基礎魔力透鏡沒有任何用處。",
