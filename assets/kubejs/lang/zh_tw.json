@@ -2760,6 +2760,7 @@
   "atm9.quest.storage.desc.functional": "功能性儲存是個保存大量相同物品的模組。 \\n \\n用來存放鵝卵石，泥土之類的相當實用。",
   "atm9.quest.storage.desc.iron": "注意：若要升級一個已經放滿東西的原版儲物箱，你必須先對這個箱子使用「基礎升級」。",
   "atm9.quest.storage.desc.link": "用來將抽屜連結至控制器，或是將終界抽屜連結在一起。 \\n \\n要連接控制器，先拿它對控制器右鍵設定。然後在對想要連結的抽屜，右鍵新增至整個控制器網路。 \\n \\n手持連結工具會顯示那些抽屜已經連結上控制器。",
+  "atm9.quest.storage.desc.modular": "模組化儲存器是《RF 工具》中的主要儲存元件，它能夠以數位方式來儲存物品，顧名思義，你能夠將這些物品當作一個整體來進行處理。\\n\\n它能夠存入的物品數取決於它的儲存模組的階級。\\n\\n數位系統對於垃圾和高度 NBT 物品更加的敏感。那是什麼？查看此任務章節中間的「NBT 與你！」任務來了解更多。",
   "atm9.quest.storage.desc.module2": "二階：200 組的空間。",
   "atm9.quest.storage.desc.module3": "三階：300 組的空間。",
   "atm9.quest.storage.desc.module4": "四階：500 組的空間。",
