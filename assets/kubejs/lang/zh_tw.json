@@ -3402,7 +3402,7 @@
   "atm9.quest.xycraft.container": "虛空容器",
   "atm9.quest.xycraft.dark": "&8深色寶石&r",
   "atm9.quest.xycraft.desc.balloon": "棍子上的氣球是個遊戲初期一個有限制的創造飛行方法。將它放出來，你就會被氣球綁住！雙擊空白鍵就能開始飛行，只是距離不遠。離太遠的話線會斷掉，然後你就會摔下來。",
-  "atm9.quest.xycraft.desc.box": "Soaryn 之箱（Soaryn 是 Xy工藝的作者名）是 Xy 工藝模組的儲物箱。破壞時並不會保留內容物，而會噴出！我也想知道上面的正方形框框是幹啥用的...",
+  "atm9.quest.xycraft.desc.box": "Soaryn 之箱（Soaryn 是 Xy 工藝的作者名）是 Xy 工藝模組的儲物箱。破壞時並不會保留內容物，而會噴出！我也想知道上面的正方形框框是幹啥用的...",
   "atm9.quest.xycraft.desc.collector": "收集器就是個非常便宜的吸收漏斗。它會自動撿起半徑三格內的所有物品，放入下方的容器或保存於自身中。能用紅石關閉！",
   "atm9.quest.xycraft.desc.container": "虛空容器能讓任何容器都變成垃圾桶。將它放在容器的正上方，然後看哪！東西都不見了呢！",
   "atm9.quest.xycraft.desc.dust": "&l歡迎來到 Xy 工藝！&r \\n \\n這章主要會針對 Xy 工藝：世界與機器這兩個模組作介紹！ \\n世界這模組主要加入了寶石，能透過篩塵土來取得。",
