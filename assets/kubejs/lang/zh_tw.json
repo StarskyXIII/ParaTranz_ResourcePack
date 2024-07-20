@@ -2903,6 +2903,7 @@
   "atm9.quest.spawner.desc.redstone": "此項改造使生怪磚能用紅石控制，在沒有紅石啟動的情況下不會生怪。",
   "atm9.quest.spawner.desc.spawner": "《神化》模組帶來的另一個遊戲變更是關於生怪磚的。還記得以前可以用絲綢之觸挖掘生怪磚嗎？現在它又回來了，這都要感謝《神化》模組！此外，你還可以用這些物品右鍵點擊生怪磚來進行許多新的改造。",
   "atm9.quest.spawner.desc.unob": "最長生成延遲的範圍也是 100 至 32767，每個難得素錠能增加或減少此數值。單位為 tick（1/20 秒），意味著生怪延遲最小為 5 秒。",
+  "atm9.quest.spawner.desc.wool": "羊毛能夠使生怪磚生出來的生物變得安靜，任意顏色和圖案的羊毛都可以，生怪磚沒那麼挑食。",
   "atm9.quest.spawner.dragon": "忽略生成條件",
   "atm9.quest.spawner.egg": "幼年化",
   "atm9.quest.spawner.fletcher": "製箭台有作用了！",
