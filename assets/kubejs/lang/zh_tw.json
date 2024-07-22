@@ -1592,6 +1592,7 @@
   "atm9.quest.forbiddenAndArcanus.subt.experienceBottle": "經驗瓶",
   "atm9.quest.forbiddenAndArcanus.subt.goPewPew": "咻咻閃電",
   "atm9.quest.forbiddenAndArcanus.subt.insanity": "我要瘋了？",
+  "atm9.quest.forbiddenAndArcanus.thisGoesBoomToo": "這也即將爆炸！",
   "atm9.quest.forbiddenAndArcanus.tyrArmor": "&5戰神提爾盔甲",
   "atm9.quest.forbiddenAndArcanus.upgradingTheForge": "&d鍛爐升級&r",
   "atm9.quest.forbiddenAndArcanus.useOnFarmland": "對著耕地使用來將它魔法化！",
@@ -2345,6 +2346,7 @@
   "atm9.quest.occultism.desc.foliotDemonFeatures.3": "只要將要讓他粉碎的物品丟給他，他就會撿起那些物品並開始粉碎它們了。你也可以潛行+右鍵點擊他來開啟他的物品欄。",
   "atm9.quest.occultism.desc.foliotDemonFeatures.4": "他是一隻低級惡魔，所以他無法在我們的世界中待太久。你能夠利用他來雙倍化你的礦物產出！",
   "atm9.quest.occultism.desc.maridCrusher.1": "第一隻魔精是很酷。但是如果我告訴你，你可以召喚一隻每破壞一個一個原礦就給妳六個粉末的惡魔呢？",
+  "atm9.quest.occultism.desc.maridCrusher.2": "&5魔王碎礦者&r 恰好就是這樣做的。為了召喚魔王，你需要使用 &c費德曼的正向吸引力&r 五芒星。這是一個高級的儀式，需要紅色、白色、金色粉筆以及大面積的空間。",
   "atm9.quest.occultism.desc.newTools.1": "我們所需要的大部分物品都在 &3其他世界&r ，所以我們需要一些靈火。但是需要藉助 &3第三隻眼&r 來找尋 &3其他世界&r 的礦物。",
   "atm9.quest.occultism.desc.newTools.2": "我們也需要一把特別的鎬子才能挖掘它們。為此，我們需要往 &d魔靈同調鎬頭&r 注入惡魔來製造可以破壞這些新原礦的鎬子。",
   "atm9.quest.occultism.desc.otherworldItems.1": "你會需要收集很多的異界物品，但每次都需要透過食用&c惡魔之夢果&r來獲得&7第三隻眼&r的話很麻煩。",
@@ -2387,9 +2389,11 @@
   "atm9.quest.occultism.huntingOtherworldMaterials": "尋找&d異界&r材料",
   "atm9.quest.occultism.iesniumOreOtherworld": "&c艾瑟金屬：「異界之礦」&r",
   "atm9.quest.occultism.littleBookDemons": "&c惡魔&r之書",
+  "atm9.quest.occultism.maridCrusher": "&5魔王碎礦者&r",
   "atm9.quest.occultism.miningDemons": "挖礦惡魔",
   "atm9.quest.occultism.newToolsForNewOres": "為了新原礦的新工具",
   "atm9.quest.occultism.observeFoliot": "觀察 魔精類型的惡魔",
+  "atm9.quest.occultism.observeMarid": "觀察惡魔 &d魔王&r",
   "atm9.quest.occultism.observeSpiritfire": "觀察 &d靈火&r",
   "atm9.quest.occultism.otherworldPickaxe": "&a異界之鎬&r",
   "atm9.quest.occultism.ourFirstRitual": "&b第一次&r&d儀式&r",
@@ -3704,5 +3708,7 @@
   "atm9.quest.xycraft.valve": "流體來來去去的地方",
   "atm9.quest.xycraft.void": "&8流體虛空&r",
   "atm9.quest.xycraft.water": "&9固體的水？&r",
-  "kubejs.apiary_i.tooltip.bee_eater": "偶爾也會吃蜜蜂。"
+  "item.kubejs.micro_universe_catalyst.tooltip": "在如擁有一千顆太陽中的火焰中鍛造",
+  "kubejs.apiary_i.tooltip.bee_eater": "偶爾吃吃蜜蜂。",
+  "kubejs.apiary_ii.tooltip.bee_requirements": "需要非常高級、所有的、日行性蜜蜂才能運行。"
 }
